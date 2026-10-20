@@ -1,6 +1,6 @@
 # 汽车销售经营复盘与策略洞察
 
-[![Syntax CI](https://github.com/MimiJimmy001/Automotive-Sales-Performance-Review-and-Strategic-Insights/actions/workflows/ci.yml/badge.svg)](https://github.com/MimiJimmy001/Automotive-Sales-Performance-Review-and-Strategic-Insights/actions/workflows/ci.yml)
+[![Syntax CI](https://github.com/MimiQuark/Automotive-Sales-Performance-Review-and-Strategic-Insights/actions/workflows/ci.yml/badge.svg)](https://github.com/MimiQuark/Automotive-Sales-Performance-Review-and-Strategic-Insights/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 以某汽车经销商 2023–2025 年的 8 万条销售记录为分析样本，围绕"卖什么、什么时候卖、卖给谁、怎么卖、谁来卖"五个业务问题，用 SQL 完成指标计算，用 Python 实现同口径分析并生成图表，最终汇总为一份 Excel BI 看板，形成从数据到经营结论的完整分析闭环。
