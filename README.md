@@ -1,4 +1,4 @@
-# 汽车销售经营复盘与策略洞察
+# 汽车销售经营复盘与策略洞察（SQL + Python + Excel BI）
 
 [![Syntax CI](https://github.com/MimiQuark/Automotive-Sales-Performance-Review-and-Strategic-Insights/actions/workflows/ci.yml/badge.svg)](https://github.com/MimiQuark/Automotive-Sales-Performance-Review-and-Strategic-Insights/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
